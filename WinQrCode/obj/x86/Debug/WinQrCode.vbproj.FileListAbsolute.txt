@@ -1,0 +1,17 @@
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\WinQrCode.exe
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\WinQrCode.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\WinQrCode.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\zxing.dll
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\zxing.presentation.dll
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\zxing.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\zxing.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\zxing.presentation.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\bin\Debug\zxing.presentation.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\WinQrCode.Form1.resources
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\WinQrCode.Resources.resources
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\WinQrCode.exe
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\WinQrCode.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCode\obj\x86\Debug\WinQrCode.pdb

@@ -1,0 +1,39 @@
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.exe
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.dll
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.dll
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.pdb
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.xml
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Form1.resources
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Properties.Resources.resources
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\Users\emanuelemattei\Documents\Visual Studio 2010\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.exe
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.pdb
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.pdb
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.xml
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.pdb
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.xml
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Form1.resources
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Properties.Resources.resources
+C:\Users\Dell\Desktop\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csproj.GenerateResource.Cache
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.exe
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.pdb
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.exe
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\WinQrCodeCS.pdb
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.pdb
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.xml
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.pdb
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\bin\Debug\zxing.presentation.xml
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csprojResolveAssemblyReference.cache
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Form1.resources
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.Properties.Resources.resources
+C:\Users\gios_\Documents\Visual Studio 2013\Projects\WinQrCode\WinQrCode\WinQrCodeCS\obj\x86\Debug\WinQrCodeCS.csproj.GenerateResource.Cache
